@@ -16,5 +16,7 @@
   1.2.2 Практическая часть: БД (установка и запуск, структура (таблицы с данными)), сайт (html, css, js), интеграция, публикация, анализ (тестирование) <br>
   1.3. Заключение: копируется введение в прошедшем времени<br>
 2. Как это должно быть оформлено (ГОСТ)<br>
-## презентация
+## методичка
 https://docs.google.com/document/d/1JJQBvgG03DYTDtfX1Xhg1qLU2b5gg0hgSMqqzUKN7KI/edit
+## курсовая гугл документ
+https://docs.google.com/document/d/1j50zHscQOcmt8Q6URNxufAVB0N9C7lD7FU-4UH8F26k/edit
